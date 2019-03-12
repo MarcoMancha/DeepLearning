@@ -1,2 +1,3 @@
 # Deep Learning
-DeepLearning programs in python
+
+Machine Learning scripts using python and keras.
