@@ -16,10 +16,6 @@ Stochastic gradient descent - to optimize the cumulative error on our model.
 
 Python version 2.7.1
 
-To run the script just: `python titanic.py`
-
-Input files and output files must be **.csv** files
-
 ## Modes
 
 ### Training with training coefficients
@@ -47,7 +43,7 @@ On this mode, the purpose is to train the model from scratch:
 
 #### Training
 
-No training is made on this option.
+No training is made on this option, coefficients are gathered from the script.
 
 #### Testing
 
@@ -58,6 +54,15 @@ No training is made on this option.
 * Use existing coefficients and predict values
 * Write predictions on output file
 
+## Running the script
 
+* Clone the repo and search for the titanic.py under kaggle/titanic carpet.
+
+* Run the script: `python titanic.py`
+
+Input files and output files must be **.csv** files
+
+### Example
+![running script](https://github.com/MarcoMancha/deep_learning/blob/2e41cdb3da8804a6dcae2576a147cd4dd807fe5e/kaggle/titanic/example_run.png)
 
 
