@@ -228,7 +228,7 @@ def train(filename):
 	# Values for training
 	n_folds = 10
 	l_rate = 0.01
-	n_epoch = 1000
+	n_epoch = 10000
 
 	#Load file
 	dataset = load_csv(filename)
@@ -265,7 +265,7 @@ def train(filename):
 def test(train,filename,results,coef,labels):
 
 	l_rate = 0.01
-	n_epoch = 1000
+	n_epoch = 10000
 
 	#Load file
 	test = load_csv(filename)
@@ -378,4 +378,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
