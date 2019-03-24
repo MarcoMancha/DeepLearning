@@ -38,7 +38,7 @@ Output -> accuracy scores
 
 Input -> .csv file
 
-Output -> predictions on .csv file
+Output -> predictions on results.csv
 
 ### Running the script
 
