@@ -1,7 +1,7 @@
-from random import seed
-from random import randrange
 from csv import reader
 from math import exp
+from random import seed
+from random import randrange
 import csv
 
 # Load csv file
@@ -328,7 +328,7 @@ def main():
 		train(filename)
 	# Test with new data with existing coefficients
 	else:
-		#Coefficients using pclass, sex, age, sibsp, parch, cabin and embarked
+		#Coefficients using pclass, sex, age, sibsp, parch, fare, cabin and embarked
 		# Sex, cabin and embarked using one hot encoding
 		coef=[
 		1.0021798418352148,-1.806516571847624,-0.8562062405993144,1.8583860824344995,
