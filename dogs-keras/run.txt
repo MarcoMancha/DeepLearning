@@ -1,5 +1,0 @@
-TRAIN
-python train.py --dataset dataset --label label.pickle --model dogs.model
-
-PREDICT
-python predict.py --label output/label.pickle --model output/dogs.model --test test/chihuahua.jpg
