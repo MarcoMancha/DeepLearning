@@ -1,5 +1,5 @@
 TRAIN
-python train.py --dataset dataset --labelbin lb.pickle --model pokedex.model
+python train.py --dataset dataset --label label.pickle --model dogs.model
 
 CLASSIFY
 python predict.py --label output/label.pickle --model output/dogs.model --test test/chihuahua.jpg
