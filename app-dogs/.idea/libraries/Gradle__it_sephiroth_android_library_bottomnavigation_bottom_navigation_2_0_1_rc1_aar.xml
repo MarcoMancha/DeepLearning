@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: it.sephiroth.android.library.bottomnavigation:bottom-navigation:2.0.1-rc1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottom-navigation-2.0.1-rc1.aar/08b2e3e0016ffd993c0ebe5f85006c04/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottom-navigation-2.0.1-rc1.aar/08b2e3e0016ffd993c0ebe5f85006c04/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottom-navigation-2.0.1-rc1.aar/08b2e3e0016ffd993c0ebe5f85006c04/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

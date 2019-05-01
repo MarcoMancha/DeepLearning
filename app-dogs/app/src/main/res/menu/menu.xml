@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navto_contacts"
+        android:icon="@drawable/ic_people_outline_blue_24dp"
+        android:title="Contacts" />
+
+    <item
+        android:id="@+id/navto_add"
+        android:icon="@drawable/ic_camera_blue_24dp"
+        android:title="Add Card" />
+
+    <item
+        android:id="@+id/navto_profile"
+        android:icon="@drawable/ic_filter_none_blue_24dp"
+        android:title="Cards" />
+
+
+</menu>

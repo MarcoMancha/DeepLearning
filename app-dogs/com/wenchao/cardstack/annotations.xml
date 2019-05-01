@@ -1,0 +1,5 @@
+<root>
+    <item name='com.wenchao.cardstack.CardStack.CardEventListener'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

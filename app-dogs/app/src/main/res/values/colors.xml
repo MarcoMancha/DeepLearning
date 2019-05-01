@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3860a5</color>
+
+    <color name="pockettLightBlue">#49A7C9</color>
+    <color name="pockettDarkBlue">#3860A5</color>
+
+    <color name="color_card_black">#000000</color>
+    <color name="color_card_white">#ffffff</color>
+    <color name="color_card_light_grey">#c2c3c3</color>
+    <color name="color_card_blue">#10293f</color>
+    <color name="color_card_dark_grey">#515351</color>
+</resources>
