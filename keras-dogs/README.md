@@ -57,9 +57,31 @@ The script needs the following flags:
 ### Example
 `$ python predict.py --label output/label.pickle --model output/dogs.model --test test/chihuahua.jpg`
 
-### Running the scripts
+# Predicting Dog Breeds using Flask and Android
 
-* Clone the repo and search for the titanic.py under neural_networks/ carpet.
-* Run the script with the needed flags
+## Extra Tools
+
+* Flask
+* Android Studio
+
+## Input Files
+
+Script is going to search for 2 files:
+
+* Model -> located in /output/dogs.model
+* Classifier -> located in /output/label.pickle
+
+## Running the service
+
+The following command will load the keras trained model and will run the flask server.
+
+`$ python service.py`
+
+## Predicting 
+
+To predict, you only have to send an image via POST to the IP of the computer you are running the server on the PORT 5000.
+
+You can download the [predicting dogs breed app](https://github.com/MarcoMancha/deep-learning/tree/master/android-dogs) or you can send a POST request with an image as parameter using the key 'file' using an app like Postman.
+
 
 
